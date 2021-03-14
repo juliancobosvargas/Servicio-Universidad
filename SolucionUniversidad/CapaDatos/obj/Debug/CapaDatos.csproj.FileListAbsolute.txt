@@ -1,0 +1,6 @@
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaDatos\bin\Debug\CapaDatos.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaDatos\obj\Debug\CapaDatos.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaDatos\obj\Debug\CapaDatos.pdb

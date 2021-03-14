@@ -1,0 +1,9 @@
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\CapaNegocio\obj\Debug\CapaNegocio.pdb

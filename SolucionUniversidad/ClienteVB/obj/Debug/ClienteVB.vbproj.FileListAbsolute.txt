@@ -1,0 +1,15 @@
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\bin\Debug\ClienteVB.exe.config
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\bin\Debug\ClienteVB.exe
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\bin\Debug\ClienteVB.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\bin\Debug\ClienteVB.xml
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.vbprojAssemblyReference.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.Resources.resources
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.vbproj.GenerateResource.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.vbproj.CoreCompileInputs.cache
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.exe
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.xml
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.pdb
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\bin\Debug\SkinSoft.VisualStyler.dll
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\bin\Debug\SkinSoft.VisualStyler.xml
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.Form1.resources
+F:\juliano\AMega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Proy04Capas\SolucionUniversidad\ClienteVB\obj\Debug\ClienteVB.vbproj.CopyComplete
